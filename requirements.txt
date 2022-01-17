@@ -1,4 +1,4 @@
 voila
-geemap==0.8.18
+geemap
 geojson
 
